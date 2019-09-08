@@ -59,4 +59,21 @@ java was invented by James Gosling and is currently owned by Oracle since 2010
 A Java applet was a small application written in the Java programming language
 
 1.5.3
+
 Androids uses Java 
+
+1.6.1
+
+Java language specification is a technical definition of the Java programming language syntaxc and semantics
+
+1.6.2
+
+Java Development Toolkit (JDK) and Java runtime enviroment (JRE)
+
+1.6.3
+
+integrated delveopment enviroment 
+
+1.6.4
+
+They are a development tool
